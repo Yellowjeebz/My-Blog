@@ -1,11 +1,11 @@
 ---
 layout: home
-title: My Blog
+title: ""
 ---
 
 # Welcome to my blog!
 
-Hello world! (I had to…)  
+Hello world! (I had to…)
 
 ## https://www.youtube.com/watch?v=vTxZifDpg8s&t=3s
 
