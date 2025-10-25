@@ -5,3 +5,5 @@ show_title: false
 paginate: 5
 
 
+show_excerpts: false
+show_title: false
