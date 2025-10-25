@@ -1,6 +1,7 @@
 theme: minima
-url: ""
-baseurl: ""
+url: "https://yellowjeebz.github.io"
+baseurl: "/My-Blog"
 show_title: false
 paginate: 5
+
 
