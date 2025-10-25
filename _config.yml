@@ -2,3 +2,4 @@ theme: minima
 url: ""
 baseurl: ""
 
+show_title: false
