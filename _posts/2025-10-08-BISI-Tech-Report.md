@@ -1,6 +1,7 @@
 ---
 title: "Contributing to BISI Tech Report Vol. 2: Cyberattacks"
 date: 2025-10-08
+tags: [Cybersecurity, BISI, Research]
 ---
 
 I had a fantastic experience contributing to the **Cyberattacks chapter** in [BISI’s Tech Report Vol. 2](https://bisi.org.uk/publications/tech-report-vol2).  
