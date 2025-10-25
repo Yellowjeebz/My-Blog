@@ -1,8 +1,6 @@
-title: My Blog
-author: Phoebe Farrelly
-description: "This is my blog made from GitHub Pages, powered by Jekyll and the Minima theme."
 theme: minima
 url: ""
 baseurl: ""
 show_title: false
 paginate: 5
+
