@@ -3,13 +3,13 @@ layout: home
 title: ""
 ---
 
-# Welcome to my blog!
+# Welcome to my Website!
 
-Hello world! (I had to…)
+Please note that this is still under development, so some links may not work.
 
 <div align="center">
   <iframe width="560" height="315" 
-    src="https://www.youtube.com/embed/vTxZifDpg8s?start=1"
+    src="https://www.youtube.com/embed/vTxZifDpg8s"
     title="YouTube video player" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
